@@ -44,3 +44,5 @@ La estimulación eléctrica induciría en los queratinocitos un programa transcr
 | `datos_limpios_GSE110830.csv` | Matriz de expresión procesada: log2FC estimulado/sham, 18.558 genes × 9 muestras |
 | `candidatos_biomarcador.csv` | Genes que suben en queratinocitos, con sus réplicas, su valor en la úlcera y el enlace a UniProt |
 
+
+Ademas, estan subidos los archivos de dataset utilizados para el analisis y los papers de Refencia tambien.
